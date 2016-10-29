@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 <head>
   <meta charset="utf-8">
@@ -11,7 +11,7 @@
   <!-- Font Awesome -->
   <link rel="stylesheet" href="../bootstrap/css/font-awesome-4.6.3/css/font-awesome.min.css">
   <!-- Ionicons -->
-  <link rel="stylesheet" href="../bootstrap/css/ionicons-2.0.1/css/ionicons.min.css">
+  <!-- <link rel="stylesheet" href="../bootstrap/css/ionicons-2.0.1/css/ionicons.min.css"> -->
   <!-- DataTables -->
   <link rel="stylesheet" href="../plugins/datatables/dataTables.bootstrap.css">  
   <!-- Theme style -->
@@ -22,15 +22,15 @@
   <!-- iCheck -->
   <link rel="stylesheet" href="../plugins/iCheck/flat/blue.css">
   <!-- Morris chart -->
-  <link rel="stylesheet" href="../plugins/morris/morris.css">
+  <!-- <link rel="stylesheet" href="../plugins/morris/morris.css"> -->
   <!-- jvectormap -->
-  <link rel="stylesheet" href="../plugins/jvectormap/jquery-jvectormap-1.2.2.css">
+  <!-- <link rel="stylesheet" href="../plugins/jvectormap/jquery-jvectormap-1.2.2.css"> -->
   <!-- Date Picker -->
   <link rel="stylesheet" href="../plugins/datepicker/datepicker3.css">
   <!-- Daterange picker -->
   <link rel="stylesheet" href="../plugins/daterangepicker/daterangepicker.css">
   <!-- bootstrap wysihtml5 - text editor -->
-  <link rel="stylesheet" href="../plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.min.css">
+  <!-- <link rel="stylesheet" href="../plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.min.css"> -->
   <link rel="stylesheet" href="../dataTables.bootstrap.css"/>
 
 
@@ -458,30 +458,30 @@
       });
     </script>
 <!-- Morris.js charts -->
-<script src="../bootstrap/js/raphael-min.js"></script>
-<script src="../plugins/morris/morris.min.js"></script>
+<!-- <script src="../bootstrap/js/raphael-min.js"></script> -->
+<!-- <script src="../plugins/morris/morris.min.js"></script> -->
 <!-- Sparkline -->
-<script src="../plugins/sparkline/jquery.sparkline.min.js"></script>
+<!-- <script src="../plugins/sparkline/jquery.sparkline.min.js"></script> -->
 <!-- jvectormap -->
-<script src="../plugins/jvectormap/jquery-jvectormap-1.2.2.min.js"></script>
-<script src="../plugins/jvectormap/jquery-jvectormap-world-mill-en.js"></script>
+<!-- <script src="../plugins/jvectormap/jquery-jvectormap-1.2.2.min.js"></script> -->
+<!-- <script src="../plugins/jvectormap/jquery-jvectormap-world-mill-en.js"></script> -->
 <!-- ChartJS 1.0.1 -->
-    <script src="../plugins/chartjs/Chart.min.js"></script>
+    <!-- <script src="../plugins/chartjs/Chart.min.js"></script> -->
 <!-- jQuery Knob Chart -->
-<script src="../plugins/knob/jquery.knob.js"></script>
+<!-- <script src="../plugins/knob/jquery.knob.js"></script> -->
 <!-- daterangepicker -->
-<script src="../bootstrap/js/moment.min.js"></script>
-<script src="../plugins/daterangepicker/daterangepicker.js"></script>
+<!-- <script src="../bootstrap/js/moment.min.js"></script> -->
+<!-- <script src="../plugins/daterangepicker/daterangepicker.js"></script> -->
 <!-- datepicker -->
 <script src="../plugins/datepicker/bootstrap-datepicker.js"></script>
 <!-- Bootstrap WYSIHTML5 -->
-<script src="../plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.all.min.js"></script>
+<!-- <script src="../plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.all.min.js"></script> -->
 <!-- Slimscroll -->
-<script src="../plugins/slimScroll/jquery.slimscroll.min.js"></script>
+<!-- <script src="../plugins/slimScroll/jquery.slimscroll.min.js"></script> -->
 <!-- FastClick -->
-<script src="../plugins/fastclick/fastclick.js"></script>
+<!-- <script src="../plugins/fastclick/fastclick.js"></script> -->
 <!-- AdminLTE App -->
-<script src="../dist/js/app.min.js"></script>
+<!-- <script src="../dist/js/app.min.js"></script> -->
 <!-- AdminLTE dashboard demo (This is only for demo purposes) -->
 <script src="../dist/js/pages/dashboard.js"></script>
 <!-- AdminLTE for demo purposes -->

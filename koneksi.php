@@ -1,7 +1,7 @@
 <?php
 $hostname="localhost";
 $user="root";
-$pass="";
+$pass="root";
 $db="inv";
 
 $koneksi=mysql_connect($hostname, $user, $pass);

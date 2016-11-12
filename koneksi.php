@@ -4,6 +4,6 @@ $user="root";
 $pass="root";
 $db="inv";
 
-$koneksi=mysql_connect($hostname, $user, $pass);
-$koneksi_db=mysql_select_db($db);
+$koneksi=mysqli_connect($hostname, $user, $pass,$db);
+// $koneksi_db=mysql_select_db($db);
 ?>

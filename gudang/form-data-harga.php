@@ -58,7 +58,7 @@ else
     <div class="form-group">
       <label>Jumlah Per Peti</label>
       <div class="input-group">
-        <input type="text" id="tgl" class="form-control input-sm" name="jml_per_peti" value="<?php echo $jml_per_peti ?>" required>
+        <input type="number" class="form-control input-sm" name="jml_per_peti" value="<?php echo $jml_per_peti ?>" required>
         <div class="input-group-addon">
           <i>kg</i>
         </div>

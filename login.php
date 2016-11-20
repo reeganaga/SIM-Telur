@@ -51,8 +51,10 @@
         <span class="glyphicon glyphicon-lock form-control-feedback"></span>
       </div>
       <div class="row">
-        <div class="col-xs-4">
+        <div class="col-xs-12">
           <button type="submit" class="btn btn-primary btn-block btn-flat" name="login">Sign In</button>
+          <a href="order.php" class="btn btn-success btn-block btn-flat">Pemesanan Area</a>
+
         </div>
         <!-- /.col -->
       </div>

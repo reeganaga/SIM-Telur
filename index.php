@@ -9,7 +9,7 @@
 	}
 	else
 	{
-		header('location:login.php');
+		header('location:order.php');
 		exit();
 	}
 ?>

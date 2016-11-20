@@ -25,7 +25,8 @@
   <![endif]-->
 </head>
 <?php 
-require_once __DIR__ . '/vendor/autoload.php';
+// require_once __DIR__ . '/vendor/autoload.php';
+require_once __DIR__ . '/src/autoload.php';
 
 // Register API keys at https://www.google.com/recaptcha/admin
 require_once 'config_recapcha.php';

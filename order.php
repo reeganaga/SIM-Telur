@@ -28,9 +28,7 @@
 require_once __DIR__ . '/vendor/autoload.php';
 
 // Register API keys at https://www.google.com/recaptcha/admin
-$siteKey = '6Lf8sSkTAAAAAEQelaHyDxXCYlfXJkDSIPJYOfxu';
-$secret = '6Lf8sSkTAAAAALQ_cFP5IgMRv5ZiSag-8nbvoqOV';
-
+require_once 'config_recapcha.php';
 // reCAPTCHA supported 40+ languages listed here: https://developers.google.com/recaptcha/docs/language
 $lang = 'id';
 if(isset($_POST['g-recaptcha-response'])):
